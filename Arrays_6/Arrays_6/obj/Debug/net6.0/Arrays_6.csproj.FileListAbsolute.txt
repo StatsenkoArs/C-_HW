@@ -1,0 +1,14 @@
+C:\Users\Глеб\source\repos\Arrays_6\Arrays_6\bin\Debug\net6.0\Arrays_6.exe
+C:\Users\Глеб\source\repos\Arrays_6\Arrays_6\bin\Debug\net6.0\Arrays_6.deps.json
+C:\Users\Глеб\source\repos\Arrays_6\Arrays_6\bin\Debug\net6.0\Arrays_6.runtimeconfig.json
+C:\Users\Глеб\source\repos\Arrays_6\Arrays_6\bin\Debug\net6.0\Arrays_6.dll
+C:\Users\Глеб\source\repos\Arrays_6\Arrays_6\bin\Debug\net6.0\Arrays_6.pdb
+C:\Users\Глеб\source\repos\Arrays_6\Arrays_6\obj\Debug\net6.0\Arrays_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Глеб\source\repos\Arrays_6\Arrays_6\obj\Debug\net6.0\Arrays_6.AssemblyInfoInputs.cache
+C:\Users\Глеб\source\repos\Arrays_6\Arrays_6\obj\Debug\net6.0\Arrays_6.AssemblyInfo.cs
+C:\Users\Глеб\source\repos\Arrays_6\Arrays_6\obj\Debug\net6.0\Arrays_6.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\Arrays_6\Arrays_6\obj\Debug\net6.0\Arrays_6.dll
+C:\Users\Глеб\source\repos\Arrays_6\Arrays_6\obj\Debug\net6.0\refint\Arrays_6.dll
+C:\Users\Глеб\source\repos\Arrays_6\Arrays_6\obj\Debug\net6.0\Arrays_6.pdb
+C:\Users\Глеб\source\repos\Arrays_6\Arrays_6\obj\Debug\net6.0\Arrays_6.genruntimeconfig.cache
+C:\Users\Глеб\source\repos\Arrays_6\Arrays_6\obj\Debug\net6.0\ref\Arrays_6.dll
