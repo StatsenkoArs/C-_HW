@@ -1,0 +1,14 @@
+C:\Users\Глеб\source\repos\methods_4\methods_4\bin\Debug\net6.0\methods_4.exe
+C:\Users\Глеб\source\repos\methods_4\methods_4\bin\Debug\net6.0\methods_4.deps.json
+C:\Users\Глеб\source\repos\methods_4\methods_4\bin\Debug\net6.0\methods_4.runtimeconfig.json
+C:\Users\Глеб\source\repos\methods_4\methods_4\bin\Debug\net6.0\methods_4.dll
+C:\Users\Глеб\source\repos\methods_4\methods_4\bin\Debug\net6.0\methods_4.pdb
+C:\Users\Глеб\source\repos\methods_4\methods_4\obj\Debug\net6.0\methods_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Глеб\source\repos\methods_4\methods_4\obj\Debug\net6.0\methods_4.AssemblyInfoInputs.cache
+C:\Users\Глеб\source\repos\methods_4\methods_4\obj\Debug\net6.0\methods_4.AssemblyInfo.cs
+C:\Users\Глеб\source\repos\methods_4\methods_4\obj\Debug\net6.0\methods_4.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\methods_4\methods_4\obj\Debug\net6.0\methods_4.dll
+C:\Users\Глеб\source\repos\methods_4\methods_4\obj\Debug\net6.0\refint\methods_4.dll
+C:\Users\Глеб\source\repos\methods_4\methods_4\obj\Debug\net6.0\methods_4.pdb
+C:\Users\Глеб\source\repos\methods_4\methods_4\obj\Debug\net6.0\methods_4.genruntimeconfig.cache
+C:\Users\Глеб\source\repos\methods_4\methods_4\obj\Debug\net6.0\ref\methods_4.dll

@@ -1,0 +1,14 @@
+C:\Users\Глеб\source\repos\methods_2\methods_2\bin\Debug\net6.0\methods_2.exe
+C:\Users\Глеб\source\repos\methods_2\methods_2\bin\Debug\net6.0\methods_2.deps.json
+C:\Users\Глеб\source\repos\methods_2\methods_2\bin\Debug\net6.0\methods_2.runtimeconfig.json
+C:\Users\Глеб\source\repos\methods_2\methods_2\bin\Debug\net6.0\methods_2.dll
+C:\Users\Глеб\source\repos\methods_2\methods_2\bin\Debug\net6.0\methods_2.pdb
+C:\Users\Глеб\source\repos\methods_2\methods_2\obj\Debug\net6.0\methods_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Глеб\source\repos\methods_2\methods_2\obj\Debug\net6.0\methods_2.AssemblyInfoInputs.cache
+C:\Users\Глеб\source\repos\methods_2\methods_2\obj\Debug\net6.0\methods_2.AssemblyInfo.cs
+C:\Users\Глеб\source\repos\methods_2\methods_2\obj\Debug\net6.0\methods_2.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\methods_2\methods_2\obj\Debug\net6.0\methods_2.dll
+C:\Users\Глеб\source\repos\methods_2\methods_2\obj\Debug\net6.0\refint\methods_2.dll
+C:\Users\Глеб\source\repos\methods_2\methods_2\obj\Debug\net6.0\methods_2.pdb
+C:\Users\Глеб\source\repos\methods_2\methods_2\obj\Debug\net6.0\methods_2.genruntimeconfig.cache
+C:\Users\Глеб\source\repos\methods_2\methods_2\obj\Debug\net6.0\ref\methods_2.dll
