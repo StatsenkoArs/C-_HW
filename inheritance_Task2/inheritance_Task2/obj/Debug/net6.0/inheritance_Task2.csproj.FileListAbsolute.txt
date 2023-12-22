@@ -1,0 +1,14 @@
+C:\Users\Глеб\source\repos\inheritance_Task2\inheritance_Task2\obj\Debug\net6.0\inheritance_Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Глеб\source\repos\inheritance_Task2\inheritance_Task2\obj\Debug\net6.0\inheritance_Task2.AssemblyInfoInputs.cache
+C:\Users\Глеб\source\repos\inheritance_Task2\inheritance_Task2\obj\Debug\net6.0\inheritance_Task2.AssemblyInfo.cs
+C:\Users\Глеб\source\repos\inheritance_Task2\inheritance_Task2\obj\Debug\net6.0\inheritance_Task2.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\inheritance_Task2\inheritance_Task2\bin\Debug\net6.0\inheritance_Task2.exe
+C:\Users\Глеб\source\repos\inheritance_Task2\inheritance_Task2\bin\Debug\net6.0\inheritance_Task2.deps.json
+C:\Users\Глеб\source\repos\inheritance_Task2\inheritance_Task2\bin\Debug\net6.0\inheritance_Task2.runtimeconfig.json
+C:\Users\Глеб\source\repos\inheritance_Task2\inheritance_Task2\bin\Debug\net6.0\inheritance_Task2.dll
+C:\Users\Глеб\source\repos\inheritance_Task2\inheritance_Task2\bin\Debug\net6.0\inheritance_Task2.pdb
+C:\Users\Глеб\source\repos\inheritance_Task2\inheritance_Task2\obj\Debug\net6.0\inheritance_Task2.dll
+C:\Users\Глеб\source\repos\inheritance_Task2\inheritance_Task2\obj\Debug\net6.0\refint\inheritance_Task2.dll
+C:\Users\Глеб\source\repos\inheritance_Task2\inheritance_Task2\obj\Debug\net6.0\inheritance_Task2.pdb
+C:\Users\Глеб\source\repos\inheritance_Task2\inheritance_Task2\obj\Debug\net6.0\inheritance_Task2.genruntimeconfig.cache
+C:\Users\Глеб\source\repos\inheritance_Task2\inheritance_Task2\obj\Debug\net6.0\ref\inheritance_Task2.dll

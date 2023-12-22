@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "inheritance_Task3/1.0.0": {
+        "runtime": {
+          "inheritance_Task3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "inheritance_Task3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

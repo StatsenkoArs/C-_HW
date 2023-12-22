@@ -1,0 +1,14 @@
+C:\Users\Глеб\source\repos\inheritance_Task3\inheritance_Task3\bin\Debug\net6.0\inheritance_Task3.exe
+C:\Users\Глеб\source\repos\inheritance_Task3\inheritance_Task3\bin\Debug\net6.0\inheritance_Task3.deps.json
+C:\Users\Глеб\source\repos\inheritance_Task3\inheritance_Task3\bin\Debug\net6.0\inheritance_Task3.runtimeconfig.json
+C:\Users\Глеб\source\repos\inheritance_Task3\inheritance_Task3\bin\Debug\net6.0\inheritance_Task3.dll
+C:\Users\Глеб\source\repos\inheritance_Task3\inheritance_Task3\bin\Debug\net6.0\inheritance_Task3.pdb
+C:\Users\Глеб\source\repos\inheritance_Task3\inheritance_Task3\obj\Debug\net6.0\inheritance_Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Глеб\source\repos\inheritance_Task3\inheritance_Task3\obj\Debug\net6.0\inheritance_Task3.AssemblyInfoInputs.cache
+C:\Users\Глеб\source\repos\inheritance_Task3\inheritance_Task3\obj\Debug\net6.0\inheritance_Task3.AssemblyInfo.cs
+C:\Users\Глеб\source\repos\inheritance_Task3\inheritance_Task3\obj\Debug\net6.0\inheritance_Task3.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\inheritance_Task3\inheritance_Task3\obj\Debug\net6.0\inheritance_Task3.dll
+C:\Users\Глеб\source\repos\inheritance_Task3\inheritance_Task3\obj\Debug\net6.0\refint\inheritance_Task3.dll
+C:\Users\Глеб\source\repos\inheritance_Task3\inheritance_Task3\obj\Debug\net6.0\inheritance_Task3.pdb
+C:\Users\Глеб\source\repos\inheritance_Task3\inheritance_Task3\obj\Debug\net6.0\inheritance_Task3.genruntimeconfig.cache
+C:\Users\Глеб\source\repos\inheritance_Task3\inheritance_Task3\obj\Debug\net6.0\ref\inheritance_Task3.dll
